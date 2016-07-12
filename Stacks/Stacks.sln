@@ -7,6 +7,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks.Core", "Stacks.Core\Stacks.Core.csproj", "{CC67AD58-AABD-4FA7-9BB3-13C263F7674C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks.Data", "Stacks.Data\Stacks.Data.csproj", "{B189AD4A-FEDE-40AF-9C24-FC523D8CB9C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks.Service", "Stacks.Service\Stacks.Service.csproj", "{D0557206-92BB-4247-BC74-0F9A542E9EBA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{5F7EBEE0-8103-43C2-B3FA-03E21ED322D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +23,21 @@ Global
 		{CC67AD58-AABD-4FA7-9BB3-13C263F7674C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC67AD58-AABD-4FA7-9BB3-13C263F7674C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC67AD58-AABD-4FA7-9BB3-13C263F7674C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B189AD4A-FEDE-40AF-9C24-FC523D8CB9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B189AD4A-FEDE-40AF-9C24-FC523D8CB9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B189AD4A-FEDE-40AF-9C24-FC523D8CB9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B189AD4A-FEDE-40AF-9C24-FC523D8CB9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0557206-92BB-4247-BC74-0F9A542E9EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0557206-92BB-4247-BC74-0F9A542E9EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0557206-92BB-4247-BC74-0F9A542E9EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0557206-92BB-4247-BC74-0F9A542E9EBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CC67AD58-AABD-4FA7-9BB3-13C263F7674C} = {E0D391C0-67F5-4FC7-B3B8-8AA6871E3181}
+		{B189AD4A-FEDE-40AF-9C24-FC523D8CB9C5} = {E0D391C0-67F5-4FC7-B3B8-8AA6871E3181}
+		{D0557206-92BB-4247-BC74-0F9A542E9EBA} = {E0D391C0-67F5-4FC7-B3B8-8AA6871E3181}
 	EndGlobalSection
 EndGlobal
