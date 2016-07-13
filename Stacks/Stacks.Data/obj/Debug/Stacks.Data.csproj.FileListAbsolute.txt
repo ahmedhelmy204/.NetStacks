@@ -1,0 +1,12 @@
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Data\obj\Debug\Stacks.Data.csprojResolveAssemblyReference.cache
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Data\bin\Debug\Stacks.Data.dll.config
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Data\bin\Debug\Stacks.Data.dll
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Data\bin\Debug\Stacks.Data.pdb
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Data\bin\Debug\EntityFramework.dll
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Data\bin\Debug\Stacks.Core.dll
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Data\bin\Debug\Stacks.Core.pdb
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Data\bin\Debug\EntityFramework.xml
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Data\obj\Debug\Stacks.Data.dll
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Data\obj\Debug\Stacks.Data.pdb

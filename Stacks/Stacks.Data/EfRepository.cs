@@ -67,5 +67,12 @@ namespace Stacks.Data
         #endregion Properties
     }
 
-    public partial class EfStacksRepository<T> : IStacksRepository<T> where T : BaseEntity { }
+    public partial class EfStacksRepository<T> : EfRepository<T> where T : BaseEntity
+    {
+        public EfStacksRepository(IDbStacksContext context)
+            : base(context)
+        {
+
+        }
+    }
 }

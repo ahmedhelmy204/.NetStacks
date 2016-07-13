@@ -1,0 +1,5 @@
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Core\bin\Debug\Stacks.Core.dll
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Core\bin\Debug\Stacks.Core.pdb
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Core\obj\Debug\Stacks.Core.csprojResolveAssemblyReference.cache
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Core\obj\Debug\Stacks.Core.dll
+C:\Sync\Work\Amitac\NetStacks\Stacks\Stacks.Core\obj\Debug\Stacks.Core.pdb

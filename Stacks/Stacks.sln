@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{E0D391C0-67F5-4FC7-B3B8-8AA6871E3181}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks.Service", "Stacks.Service\Stacks.Service.csproj", "{D0557206-92BB-4247-BC74-0F9A542E9EBA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{5F7EBEE0-8103-43C2-B3FA-03E21ED322D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks.Web", "Stacks.Web\Stacks.Web.csproj", "{FCFF067B-E51C-422A-BB62-5AE66B1201C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{D0557206-92BB-4247-BC74-0F9A542E9EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0557206-92BB-4247-BC74-0F9A542E9EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0557206-92BB-4247-BC74-0F9A542E9EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCFF067B-E51C-422A-BB62-5AE66B1201C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFF067B-E51C-422A-BB62-5AE66B1201C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFF067B-E51C-422A-BB62-5AE66B1201C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFF067B-E51C-422A-BB62-5AE66B1201C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,5 +45,6 @@ Global
 		{CC67AD58-AABD-4FA7-9BB3-13C263F7674C} = {E0D391C0-67F5-4FC7-B3B8-8AA6871E3181}
 		{B189AD4A-FEDE-40AF-9C24-FC523D8CB9C5} = {E0D391C0-67F5-4FC7-B3B8-8AA6871E3181}
 		{D0557206-92BB-4247-BC74-0F9A542E9EBA} = {E0D391C0-67F5-4FC7-B3B8-8AA6871E3181}
+		{FCFF067B-E51C-422A-BB62-5AE66B1201C0} = {5F7EBEE0-8103-43C2-B3FA-03E21ED322D3}
 	EndGlobalSection
 EndGlobal
